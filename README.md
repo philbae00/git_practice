@@ -1,1 +1,1 @@
-# git_practice
+# git_practice 에서 pull request 연습
